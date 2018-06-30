@@ -5,5 +5,5 @@ fields:
 - type: text
   name: page
   label: page
-  description: Another Post
+  description: Another Page
   hidden: true
