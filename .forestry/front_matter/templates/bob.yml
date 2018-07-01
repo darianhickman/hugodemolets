@@ -7,3 +7,5 @@ fields:
   label: page
   description: Another Page
   hidden: true
+pages:
+- content/en/newpage.md
